@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/EXTTRIM03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c-406_2183_-1328"
+	}
+}

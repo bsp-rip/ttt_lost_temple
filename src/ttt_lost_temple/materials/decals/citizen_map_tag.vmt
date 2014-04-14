@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+   "$basetexture" "decals/citizen_map_tag"
+   "$decal" "1"
+   "$decalscale" 0.25
+   "$translucent" 1
+}

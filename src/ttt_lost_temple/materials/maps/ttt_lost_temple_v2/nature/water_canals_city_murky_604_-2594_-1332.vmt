@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CITY_MURKY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c604_-2594_-1332"
+		"Proxies"
+		{
+		}
+	}
+}

@@ -1,0 +1,38 @@
+"tomb_desert"
+{
+	"dsp"	"1"
+	"playlooping"
+	{ 
+		"volume"		"1"
+		"pitch"		"100"
+		"wave"		"ambient/wind/wasteland_wind.wav"
+	}
+
+}
+
+"tomb_chamber"
+{
+	"dsp"	"1"
+	"playlooping"
+	{ 
+		"volume"		".5"
+		"pitch"		"100"
+		"wave"		"ambient/wind/dry_air_short_indoors.wav"
+	}
+
+	"dsp"	"1"
+	"playlooping"
+	{ 
+		"volume"		"1"
+		"pitch"		"100"
+		"wave"		"ambient/tomb/tomb_ambience.wav"
+	}
+
+	"playlooping"
+	{ 
+		"volume"		".3"
+		"pitch"		"100"
+		"wave"		"ambient/fire/fire_med_loop1.wav"
+	}
+
+}

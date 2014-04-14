@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/BRICKFTRIMC.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c1701_-2023_-1332"
+	}
+}

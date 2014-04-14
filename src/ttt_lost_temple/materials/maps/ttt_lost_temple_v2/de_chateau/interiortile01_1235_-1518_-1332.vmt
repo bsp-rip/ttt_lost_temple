@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/INTERIORTILE01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c1235_-1518_-1332"
+	}
+}

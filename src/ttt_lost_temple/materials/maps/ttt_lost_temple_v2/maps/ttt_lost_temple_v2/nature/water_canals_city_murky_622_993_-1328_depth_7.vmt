@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/ttt_lost_temple_v2/nature/water_canals_city_murky_622_993_-1328.vmt"
+	"insert"
+	{
+		"$waterdepth"		"7"
+	}
+}

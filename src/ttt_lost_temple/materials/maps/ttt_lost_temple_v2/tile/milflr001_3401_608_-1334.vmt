@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/MILFLR001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c3401_608_-1334"
+	}
+}

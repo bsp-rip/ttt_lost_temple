@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL071A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_lost_temple_v2/c-4_36_-1346"
+	}
+}
